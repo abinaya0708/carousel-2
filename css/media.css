@@ -1,0 +1,21 @@
+@media(min-width:320px){
+	.carousel-img{
+	width:50%;
+	margin:auto;
+	padding-top:50%;
+}
+}
+@media(min-width:760px){
+	.carousel-img{
+	width:50%;
+	margin:auto;
+	padding-top:50%;
+}
+}
+@media(min-width:960px){
+	.carousel-img{
+	width:20%;
+	margin:auto;
+	padding-top:12%;
+}
+}
